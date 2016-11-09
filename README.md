@@ -2,4 +2,4 @@
 
 Distributed Key value store
 PUSH and POP operation. 
-see projectreport for more details
+see project report for more details
